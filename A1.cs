@@ -1,4 +1,4 @@
-A1 Q1
+//A1 Q1
 
 class FinancialCalculator
 {
@@ -20,7 +20,7 @@ class FinancialCalculator
 }
 
 
-Q2
+//Q2
 using System;
 
 class AnalyticsTool
@@ -46,7 +46,7 @@ class AnalyticsTool
 }
 
 
-Q3
+//Q3
 using System;
 
 class InventoryManagement
@@ -77,7 +77,7 @@ class InventoryManagement
 }
 
 
-Q4
+//Q4
 using System;
 
 class SurveyReport
@@ -109,7 +109,7 @@ class SurveyReport
 }
 
 
-Q5
+//Q5
 
 using System;
 
@@ -144,7 +144,7 @@ class SearchHistoryApp
 }
 
 
-Q6
+//Q6
 using System;
 
 class Program
@@ -176,7 +176,7 @@ class Program
 
 
 
-Q7
+//Q7
 using System;
 
 class Program
@@ -209,7 +209,7 @@ class Program
 }
 
 
-Q8
+//Q8
 
 using System;
 
@@ -246,7 +246,7 @@ class Program
 }
 
 
-Q9
+//Q9
 using System;
 using System.Collections.Generic;
 
@@ -281,7 +281,7 @@ class Program
 }
 
 
-Q10
+//Q10
 using System;
 using System.Collections.Generic;
 
